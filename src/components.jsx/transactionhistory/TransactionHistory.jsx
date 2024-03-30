@@ -1,4 +1,4 @@
-import styles from "./TransactionHistory.module.css"; // Предполагаем, что стили определены
+import styles from "./TransactionHistory.module.css";
 
 const TransactionHistory = ({ items }) => {
   return (
